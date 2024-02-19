@@ -1,0 +1,49 @@
+body {
+    background: url(images/pic.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.pinke {
+    color: rgb(246, 164, 178);
+}
+.veg {
+    color: rgb(218, 149, 218);
+}
+.map {
+    background-color: rgb(5, 144, 144);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: rgb(0, 255, 8);
+}
+.color {
+    color: rgb(245, 201, 201);
+}
+.yu {
+    color: rgb(0, 255, 217);
+}
+.aaa {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.uuu {
+    border:5px solid rgb(254, 131, 7);
+    border-radius: 10px;
+}
+.yyy {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.rrr {
+    color: rgb(0, 255, 255);
+    font-size: 50px;
+}
+.zx {
+    border: 1px solid white;
+}
+.fdktuehg{
+    color: white;
+}
